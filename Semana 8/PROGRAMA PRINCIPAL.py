@@ -1,4 +1,3 @@
-#Nathaly Sarai Rodriguez Silva
 import MODULO1
 import MODULO2
 Start = int(input("Seleccione:\n-Opcion 1 para calcular su edad\n"

@@ -1,4 +1,3 @@
-#Nathaly Sarai Rodriguez Silva
 def AÑOS():
     while True:
         try:
